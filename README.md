@@ -16,7 +16,7 @@ Hmeq from Sampsio Library
   - Set cumulative to 0.97 under eigenvalue cutoff
   - Set maximum number to 7 under max number cutoff
   - ![image](https://user-images.githubusercontent.com/98597962/162489234-fb90d510-1f91-4301-addd-07a21ee38b55.png)
-8. Run and Visualize results
+6. Run and Visualize results
 
 **Results:**
 -
